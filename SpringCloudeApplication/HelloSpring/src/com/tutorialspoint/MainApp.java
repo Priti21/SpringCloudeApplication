@@ -14,6 +14,7 @@ public class MainApp {
    String myname1 =new String("abc");
    
    System.out.println("Name after allocating "+myname1);
-   System.out.println("Name after allocating "+myname1);
+   System.out.println("Name after allocating2 "+myname1);
+   System.out.println("Name after allocating3 "+myname1);
    }
 }
