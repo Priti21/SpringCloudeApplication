@@ -17,5 +17,6 @@ public class MainApp {
    System.out.println("Name after allocating2 "+myname1);
    System.out.println("Name after allocating3 "+myname1);
    System.out.println("Added by Priti "+myname1);
+ System.out.println("Added Via web "+myname1);
    }
 }
